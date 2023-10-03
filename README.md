@@ -2,7 +2,7 @@
 
  - 🔭 Procurando vaga como Desenvolvedor Front-End
  - 🌱 Estudando NodeJS 
- - 📫 Contate-me no e-mail: leonardo.fe.figueiredo@gmail.com
+ - 🦆 Estou participando de um projeto para criar um software completo!
   
  </br>
   <div> 
