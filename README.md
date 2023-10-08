@@ -2,7 +2,7 @@
 
  - 🔭 Procurando vaga como Desenvolvedor Front-End
  - 🌱 Estudando NodeJS 
- - 🦆 Estou participando de um projeto para criar um software completo!
+ - 🦆 Estou participando de um projeto para fazer a criação de um website completo!
   
  </br>
   <div> 
