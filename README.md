@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Leonardo Figueiredo
 
  - 🔭 Procurando vaga como Desenvolvedor Front-End
- - 🌱 Estudando NodeJS 
+ - 🌱 Estudando NodeJS e ParseServer
  - 🦆 Estou participando de um projeto para fazer a criação de um website completo!
   
  </br>
