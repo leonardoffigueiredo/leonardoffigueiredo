@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=277ff2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Leonardo+Feitosa+Figueiredo;I'm+16+years+old;I'm+from+Brazil;I´m+Web+Developer+Dev;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardo&show_icons=true&count_private=true&hide_border=true&title_color=277ff2&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Lucinaldo Costa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucinaldocosta&layout=compact&hide_border=true&title_color=ff91a4&text_color=277ff2&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=leonardoffigueiredo&show_icons=true&count_private=true&hide_border=true&title_color=277ff2&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Feitosa Figueiredo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoffigueiredo&layout=compact&hide_border=true&title_color=ff91a4&text_color=277ff2&bg_color=0d1117" />
 </div>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucinaldocosta&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardoffigueiredo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
   <div style="display: inline_block"><br>
